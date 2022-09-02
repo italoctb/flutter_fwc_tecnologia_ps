@@ -14,10 +14,12 @@ Especificações do desafio: Consumir um JSON dado, dispor os elementos na tela 
   ## Adicionais
   
   <ul>
-    <li>Clean Architecture
-    <li>BloC
-    <li>PageView
-    <li>Drawer
-    <li>Componentização de Widgets 
+    <li>Esquemas de bordas e badges igual a versão de produção do app;
+    <li>Bottom Navigation Bar feito com CustomPainter;
+    <li>Clean Architecture;
+    <li>BloC;
+    <li>PageView;
+    <li>Drawer;
+    <li>Componentização de Widgets; 
   </ul>
   
