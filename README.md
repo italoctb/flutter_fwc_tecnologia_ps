@@ -1,16 +1,10 @@
 # ps_fwc_tecnologia
 
-A new Flutter project.
+Processo seletivo FWC Tecnologia
 
-## Getting Started
+## Desafio Flutter
 
-This project is a starting point for a Flutter application.
+Especificações do desafio: Consumir um JSON dado, dispor os elementos na tela como na Figura.
 
-A few resources to get you started if this is your first Flutter project:
+<img src= "https://github.com/italoctb/flutter_fwc_tecnologia_ps/captura_desafio.png"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
